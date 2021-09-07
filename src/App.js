@@ -1,4 +1,5 @@
 import React from 'react'
+import Navbar from './component/Basics/Navbar'
 import Restaurant from './component/Basics/Restaurant'
 // rafce
 
